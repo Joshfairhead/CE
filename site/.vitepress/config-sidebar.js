@@ -17,83 +17,60 @@ export default {
         items: [],
       },
       {
-        text: "Field Guides",
+        text: "Cosmic Ecology",
         items: [
           {
-            text: "What is Web3?",
-            collapsed: true,
+            text: "Worldviews",
+            collapsed: false,
             items: [
               {
-                text: "Overview",
-                link: "/resources/what/0_overview/overview",
-              },
-              {
-                text: "Data Integrity",
-                link: "/resources/what/1_dataIntegrity/ledger",
-              },
-              {
-                text: "Crypto Tokens",
-                link: "/resources/what/2_cryptoTokens/tokens",
-              },
-              {
-                text: "Wallet Clients",
-                link: "/resources/what/3_walletClients/wallets",
-              },
-              {
-                text: "DAO Governance",
-                link: "/resources/what/4_DAOGovernance/governance.md",
-              },
-              {
-                text: "Distributed Applications",
-                link:
-                  "/resources/what/5_distributedApplications/distributedApplications.md",
-              },
-            ],
-          },
-          {
-            text: "How to use Web3?",
-            collapsed: true,
-            items: [
-              {
-                text: "Cosmos Wallets",
+                text: "Hydrogen Universe",
                 collapsed: true,
                 items: [
                   {
-                    text: "Wallet Setup",
-                    link: "/resources/how/wallet/wallet-setup",
+                    text: "Hydrogen Universe",
+                    link: "/resources/CosmicEcology/Hydrogen/Hydrogen.md",
                   },
-                  {
-                    text: "Wallet Transactions",
-                    link: "/resources/how/wallet/wallet-transactions",
-                  },
-                  // { text: "Staking Wallet Setup", link: "/resources/how/wallet/staking-wallet-setup" },
-                  // { text: "Cosmos Wallet Onboarding", link: "/wallet/cosmos-wallet-onboarding" },
                 ],
               },
               {
-                text: "Commonwealth",
+                text: "Informational Universe",
                 collapsed: true,
                 items: [
                   {
-                    text: "Sign-up",
-                    link: "/resources/how/commonwealth/sign-up",
-                  },
-                  {
-                    text: "Discussion",
-                    link: "/resources/how/commonwealth/discussion",
-                  },
-                  {
-                    text: "Voting",
-                    link: "/resources/how/commonwealth/voting",
-                  },
-                  {
-                    text: "Signalling Proposals",
-                    link: "/resources/how/commonwealth/signalling-proposals",
-                  },
-                  {
-                    text: "Community Spend Proposal",
+                    text: "Informational Universe",
                     link:
-                      "/resources/how/commonwealth/community-spend-proposal",
+                      "/resources/CosmicEcology/Informational/Informational.md",
+                  },
+                ],
+              },
+              {
+                text: "Living Universe",
+                collapsed: true,
+                items: [
+                  {
+                    text: "Living Universe",
+                    link: "/resources/CosmicEcology/Living/Living.md",
+                  },
+                ],
+              },
+              {
+                text: "Conscious Universe",
+                collapsed: true,
+                items: [
+                  {
+                    text: "Conscious Universe",
+                    link: "/resources/CosmicEcology/Conscious/Conscious.md",
+                  },
+                ],
+              },
+              {
+                text: "Accountable Universe",
+                collapsed: true,
+                items: [
+                  {
+                    text: "Accountable Universe",
+                    link: "/resources/CosmicEcology/Accountable/Accountable.md",
                   },
                 ],
               },

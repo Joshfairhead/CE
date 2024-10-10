@@ -2,12 +2,12 @@
 layout: home
 
 hero:
-  name: LunarPunk Labs
+  name: Cosmic Ecology
   # text: Generative Strategy
-  tagline: Cosmic Collective Intelligence
+  tagline: Generative Woldviews
   actions:
     - theme: alt
-      text: Deep Space Transmissions
+      text: Resources
       link: /resources/introduction/launchpad
 # features:
 # - icon: 🛠️
